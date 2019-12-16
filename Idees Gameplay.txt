@@ -1,0 +1,27 @@
+Gameplay SuperHotV2 :
+
+- VR
+- Pas de déplacements (juste rotation caméra)
+- Shooter
+- Nombre de balles définies
+- IAs ne bougent pas pendant un laps de temps (style SuperHot)
+- Puzzle shooter (tirer sur un(e) ficelle/bouton --> fait tomber un cube/balancier/explosion/trappes --> Mort)
+- Lancer des objets pour tuer 
+- Reflet de miroir (tirer dessus --> rebonds --> IA mort)
+- Faux pièges
+- IA alliées
+
+1er niveau (tuto) :
+- 3 ennemis
+- un simple piège pour IA
+
+2eme niveau :
+- 6 ennemis 
+- 3 pièges 
+- 
+
+3eme niveau :
+-
+
+4eme niveau :
+-
