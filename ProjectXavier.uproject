@@ -1,14 +1,8 @@
 {
 	"FileVersion": 3,
-	"EngineAssociation": "4.22",
+	"EngineAssociation": "{BC48299C-4347-E7B7-1B38-05A28D7448C1}",
 	"Category": "",
 	"Description": "",
-	"Plugins": [
-		{
-			"Name": "HoudiniEngine",
-			"Enabled": true
-		}
-	],
 	"TargetPlatforms": [
 		"PS4",
 		"WindowsNoEditor"
